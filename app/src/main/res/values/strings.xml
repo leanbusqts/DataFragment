@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataFragment</string>
+    <string name="enterText">Enter Text</string>
+    <string name="enter">Enter</string>
+    <string name="fragment_main">MAIN FRAGMENT</string>
+    <string name="fragment_second">SECOND FRAGMENT</string>
+    <string name="fragment_first">FIRST FRAGMENT</string>
+</resources>
